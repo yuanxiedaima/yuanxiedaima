@@ -13,12 +13,10 @@
 ## 自我评价🤔
 
 - 为人热情开朗，积极向上，对世界充满好奇心和探索欲，热爱学习
-- 自制力较强，自我驱动型人格，充满热情与活力
-- 具备英文阅读能力，查询和学习英文文档资料
-- 具备良好的编码习惯，善于总结，偶尔写写技术博客
-- 平时喜欢阅读各类书籍，兴趣广泛  
-- GitHub https://github.com/Jface001
-- 个人博客 https://jface001.github.io/
+- 自制力较强，具备良好的编码习惯，善于总结，充满热情与活力
+- 平时喜欢阅读各类书籍，兴趣广泛
+- GitHub  https://github.com/yuanxiedaima
+- 个人博客 https://www.cnblogs.com/nanguyhz
 
 ## 技术栈🔧
 
@@ -51,40 +49,37 @@
 
 ### 求职意向
 
-- 地区: 深圳  
-- 方向: Spark 离线数仓分析，Flink 实时数仓分析  
+- 地区: 深圳,杭州,广州,成都等等  
+- 方向: Spark 离线数仓分析  
 - 行业: 互联网、金融、保险、游戏、新零售等
 
 ### 个人技能
 
 **掌握** 
 
-- JavaSE 基础知识，如封装、继承、多态、面向对象、JDBC、多线程等特性  
-- Scala 语言函数式编程，使用 Scala 开发 SparkCore 实现离线批计算  
-- Flink 生态圈，使用 DataStream、FlinkSQL 做实时流计算  
-- Spark 生态圈，SparkCore、SparkSQL、StructuredSteaming ，SparkSQL 做离线批处理  
-- Hadoop 生态圈，HDFS 大数据文件存储系统，HDFS 读写流程及原理  
-- Yarn 和 MapReduce 工作流程及原理  
+- Hadoop 生态圈，HDFS 大数据文件存储系统，HDFS 读写流程及原理
+- Yarn 和 MapReduce 工作流程及原理
+- Spark 生态圈，SparkCore、SparkSQL等做离线批处理
+- Hive 数据仓库的数据查询，HiveSQL 查询和计算，对 Hive 性能优化有一定经验 
 
 **熟悉**
 
-- Linux 系统使用和优化，Linux 常用命令，Awk、Shell 脚本命令编写  
-- Hive 数据仓库数据查询，HiveSQL 查询，对 Hive 性能优化有一定经验  
-- Kafka 消息中间件使用，使用 Spark、Flink 从 Kafka 消费数据做批处理或实时计算  
-- Presto、分布式交互查询引擎，使用 Presto SQL 查询计算数据  
-- Hbase、Redis 等 NOSQL数据库，大数据毫秒级存储查询  
-- Sqoop 进行 MySQL 和 HDFS 数据的导入导出，全量增量数据抽取    
-- DolphinScheduler 和 Oozie 工作任务调度  
+- python和java的基本使用
+- SQL的增删改查等基本使用
+- Linux 系统基本使用，Linux 常用命令，Shell 脚本命令的编写
+- Zookeeper集群搭建管理，选举机制
+- Presto 分布式交互查询引擎，使用 Presto SQL 查询和计算数据
+- Sqoop 进行对 MySQL 和 HDFS 数据的导入导出，全量增量数据抽取 
 
 **了解**
 
-- ClickHouse 列式数据库管理系统，实时即席查询  
-- Kylin 构建即席查询
-- DataX 数据抽取同步  
+- DolphinScheduler 和 Oozie 工作任务调度
+- SSM 框架，springBoot 框架开发数据接口
+- 了解MySQL，Oracle，SQL Server等常见关系型数据库
 
 **其它**
 
-- GitHub https://github.com/yuanxiedaima
+- GitHub  https://github.com/yuanxiedaima
 - 个人博客 https://www.cnblogs.com/nanguyhz  
 
 
