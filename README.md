@@ -22,7 +22,6 @@
 
 - 基础语言  
   ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=#007396)
-  ![Scala](https://img.shields.io/badge/-Scala-192133?style=flat-square&logo=scala&logoColor=#DC322F)
   ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=linux&logoColor=#FCC624)
   ![Shell](https://img.shields.io/badge/-Shell-192133?style=flat-square&logo=shell&logoColor=#FFD500)
   ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=#3776AB)
@@ -31,15 +30,11 @@
   ![Hive](https://img.shields.io/badge/-Hive-192133?style=flat-square&logo=apache-hive&logoColor=#E31337)
   ![Presto](https://img.shields.io/badge/-Presto-192133?style=flat-square&logo=presto&logoColor=#5890FF)
   ![Spark](https://img.shields.io/badge/-Spark-192133?style=flat-square&logo=apache-spark&logoColor=#E25A1C)
-  ![Flink](https://img.shields.io/badge/-Flink-192133?style=flat-square&logo=apache-flink&logoColor=#E6526F)
-  ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=#231F20)
-  ![Kylin](https://img.shields.io/badge/-Kylin-192133?style=flat-square&logo=apache-kylin&logoColor=#F09D13)
 - 数据库  
   ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=#4479A1)
   ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=#DC382D)
   ![Hbase](https://img.shields.io/badge/-Hbase-192133?style=flat-square&logo=apache-hbase&logoColor=white)
 - 其它工具  
-  ![Elasticsearch](https://img.shields.io/badge/-ES-192133?style=flat-square&logo=elasticsearch&logoColor=#005571)
   ![Sqoop](https://img.shields.io/badge/-Sqoop-192133?style=flat-square&logo=apache-sqoop&logoColor=white)
   ![DataX](https://img.shields.io/badge/-DataX-192133?style=flat-square&logo=datax&logoColor=white)
 
