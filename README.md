@@ -5,7 +5,7 @@
 
 - ⌨ 大数据工程师  
 - 👦 做一个优秀的 SQLBoy     
-- 🐿️ 专注 Spark  技术栈  
+- 🐿️ 专注 Spark 和 hive 技术栈  
 - ✏  保持学习，加油加油
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuanxiedaima&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
